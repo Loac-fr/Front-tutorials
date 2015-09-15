@@ -18,6 +18,8 @@ Cool tutorials about JS, Sass, css, and stuff
 
 ## Angular
 ### Basics
+- https://docs.angularjs.org/tutorial/
+- ...
 ### ?
 
 ***
