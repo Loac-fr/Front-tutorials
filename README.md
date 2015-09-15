@@ -5,7 +5,22 @@ Cool tutorials about JS, Sass, css, and stuff
 
 # JS  
 
+## Animation  
+### Greensock GSAP  
+- ...
+- ...
+
+### Velocity JS
+- ...
+- ...
+
+***
+
 ## Angular
+### Basics
+### ?
+
+***
 
 ## JS APIs
 ### Promises
@@ -17,6 +32,8 @@ Cool tutorials about JS, Sass, css, and stuff
 - ...
 
 ### ...
+
+***
 
 # CSS  
 
