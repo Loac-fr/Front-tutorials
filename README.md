@@ -46,5 +46,6 @@ Cool tutorials about JS, Sass, css, and stuff
 
 ## General
 - https://github.com/airbnb/css
+- https://github.com/bigcommerce/sass-style-guide
 
 
