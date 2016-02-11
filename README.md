@@ -44,4 +44,7 @@ Cool tutorials about JS, Sass, css, and stuff
 
 # CSS  
 
+## General
+- https://github.com/airbnb/css
+
 
